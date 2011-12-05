@@ -14,7 +14,7 @@ doc/app
 *.swp
 *~
 .DSstore
-
+.idea
 
 # Ignore bundler config
 /.bundle
